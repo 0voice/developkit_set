@@ -165,11 +165,112 @@
 ##### [PolyCode](http://polycode.org/) : C++实现的用于创建游戏的开源框架（与Lua绑定）。
 
 
+<br>
+
+### 图形库
+##### [bgfx](https://github.com/bkaradzic/bgfx) : 跨平台的渲染库
+##### [Cairo](http://www.cairographics.org/) : 支持多种输出设备的2D图形库
+##### [Horde3D](https://github.com/horde3d/Horde3D) : 一个小型的3D渲染和动画引擎
+##### [magnum](https://github.com/mosra/magnum) : C++11和OpenGL 2D/3D 图形引擎
+##### [Ogre 3D](https://www.ogre3d.org/) : 用C++编写的一个面向场景，实时，灵活的3D渲染引擎（并非游戏引擎）
+##### [OpenSceneGraph](http://www.openscenegraph.org/) : 具有高性能的开源3D图形工具包
+##### [Panda3D](https://www.panda3d.org/) : 用于3D渲染和游戏开发的框架，用Python和C++编写。
+##### [Skia](https://github.com/google/skia) : 用于绘制文字，图形和图像的完整的2D图形库
+##### [urho3d](https://github.com/urho3d/Urho3D) : 跨平台的渲染和游戏引擎。
+
+<br>
+
+### 图像处理
+##### [Boost.GIL](https://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) : 通用图像库
+##### [CImg](https://sourceforge.net/projects/cimg/) : 用于图像处理的小型开源C++工具包
+##### [FreeImage](http://freeimage.sourceforge.net/) : 开源库，支持现在多媒体应用所需的通用图片格式和其他格式。
+##### [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) : Grassroots DICOM 库
+##### [ITK](https://itk.org/) : 跨平台的开源图像分析系统
+##### [Magick++](http://www.imagemagick.org/script/api.php) : ImageMagick程序的C++接口
+##### [OpenCV](https://opencv.org/) : 开源计算机视觉类库
+##### [tesseract-ocr](https://code.google.com/p/tesseract-ocr/) : OCR引擎
+##### [VIGRA](https://github.com/ukoethe/vigra) : 用于图像分析通用C++计算机视觉库
+##### [VTK](https://vtk.org/) : 用于3D计算机图形学，图像处理和可视化的开源免费软件系统。
+
+
+<br>
+
+### 国际化
+##### [gettext](http://www.gnu.org/software/gettext/) :  GNU gettext
+##### [IBM ICU](http://site.icu-project.org/) : 提供Unicode 和全球化支持的C、C++ 和Java库
+##### [libiconv](http://www.gnu.org/software/libiconv/) : 用于不同字符编码之间的编码转换库
+
+
+<br>
+
+### Json库
+##### [frozen](https://github.com/cesanta/frozen) : C/C++的Jason解析生成器
+##### [Jansson](https://github.com/akheron/jansson) : 进行编解码和处理Jason数据的C语言库
+##### [jbson](https://github.com/chrismanning/jbson) : C++14中构建和迭代BSON data,和Json 文档的库
+##### [JeayeSON](https://github.com/jeaye/jeayeson) : 非常健全的C++ JSON库，只包含头文件
+##### [JSON++](https://github.com/hjiang/jsonxx) : C++ JSON 解析器
+##### [json-parser](https://github.com/udp/json-parser) : 用可移植的ANSI C编写的JSON解析器，占用内存非常少
+##### [json11](https://github.com/dropbox/json11) : 一个迷你的C++11 JSON库
+##### [jute](https://github.com/amir-s/jute) : 非常简单的C++ JSON解析器
+##### [ibjson](https://github.com/vincenthz/libjson) : C语言中的JSON解析和打印库，很容易和任何模型集成
+##### [libjson](https://sourceforge.net/projects/libjson/) : 轻量级的JSON库
+##### [PicoJSON](https://github.com/kazuho/picojson) : C++中JSON解析序列化，只包含头文件
+##### [Qt-Json](https://github.com/qt-json/qt-json) : 用于JSON数据和 QVariant层次间的相互解析的简单类
+##### [QJson](https://github.com/flavio/qjson) : 将JSON数据映射到QVariant对象的基于Qt的库
+##### [RepidJSON](https://github.com/Tencent/rapidjson) : 用于C++的快速JSON 解析生成器，包含SAX和DOM两种风格的API
+##### [YAJL](https://github.com/lloyd/yajl) : C语言中快速流JSON解析库
+
+
+<br>
+
+### 日志
+##### [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) : 设计非常模块化，并且具有扩展性
+##### [easyloggingpp](https://github.com/zuhd-org/easyloggingpp) : C++日志库，只包含单一的头文件。
+##### [Log4cpp](http://log4cpp.sourceforge.net/) : 一系列C++类库，灵活添加日志到文件，系统日志，IDSA和其他地方。
+##### [templog](http://www.templog.org/) : 轻量级C++库，可以添加日志到你的C++应用程序中
+
+
+<br>
+
+### 机器学习，人工智能
+
+##### [btsk](https://github.com/aigamedev/btsk) : 游戏行为树启动器工具
+##### [Evolving Objects](http://eodev.sourceforge.net/) : 基于模板的，ANSI C++演化计算库，能够帮助你非常快速地编写出自己的随机优化算法。
+##### [Caffe](https://github.com/BVLC/caffe) : 快速的神经网络框架
+##### [CCV](https://github.com/liuliu/ccv) : 以C语言为核心的现代计算机视觉库
+##### [mlpack](http://www.mlpack.org/) :  可扩展的C++机器学习库
+##### [OpenCV](https://github.com/opencv/opencv) : 开源计算机视觉库
+##### [Recommender](https://github.com/GHamrouni/Recommender) : 使用协同过滤进行产品推荐/建议的C语言库。
+##### [SHOGUN](https://github.com/shogun-toolbox/shogun) : Shogun 机器学习工具
+##### [sofia-ml](https://code.google.com/p/sofia-ml/) : 用于机器学习的快速增量算法套件
+
+
+
+<br>
+
+### 数学库
+
+##### [Armadillo](http://arma.sourceforge.net/) : 高质量的C++线性代数库，速度和易用性做到了很好的平衡。语法和MatlAB很相似
+##### [blaze](https://code.google.com/p/blaze-lib/) : 高性能的C++数学库，用于密集和稀疏算法。
+##### [ceres-solver](http://ceres-solver.org/) : 来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题。
+##### [CGal](http://www.cgal.org/) : 高效，可靠的集合算法集合
+##### [CML](https://github.com/demianmnave/CML/wiki/The-Configurable-Math-Library) : 用于游戏和图形的免费C++数学库
+##### [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) : 高级C++模板头文件库，包括线性代数，矩阵，向量操作，数值解决和其他相关的算法。
+##### [GMTL](http://ggt.sourceforge.net/) : 数学图形模板库是一组广泛实现基本图形的工具。
+##### [GMP](https://gmplib.org/) : 用于个高精度计算的C/C++库，处理有符号整数，有理数和浮点数。
 
 
 
 
 
+
+
+
+#### 获取大牛视频资料，专家架构交流3群：783153655
+#### 若群已满，添加QQ：469254771 , 备注github
+#### 关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料
+
+![image](https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg)
 
 
 
