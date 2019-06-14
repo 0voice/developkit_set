@@ -50,6 +50,37 @@
 ##### [ntyco](https://github.com/wangbojing/NtyCo) : 纯c版的协程框架，代码短小精悍，适合嵌入工程。
 ##### [libgo](https://github.com/yyzybb537/libgo) : golang风格的并发框架，C++11实现协程库
 
+
+<br>
+
+### 网络库
+##### [ACE](https://github.com/cflowe/ACE) : C++面向对象网络变成工具包
+##### [Casablanca](https://archive.codeplex.com/?p=casablanca) : C++ REST SDK
+##### [cpp-netlib](https://cpp-netlib.org/) : 高级网络编程的开源库集合
+##### [Dyad.c](https://github.com/rxi/dyad) : C语言的异步网络
+##### [libCurl](https://curl.haxx.se/libcurl/) : 多协议文件传输库
+##### [Mongoose](https://github.com/cesanta/mongoose) : 非常轻量级的网络服务器
+##### [Muduo](https://github.com/chenshuo/muduo) : 用于Linux多线程服务器的C++非阻塞网络库
+##### [net_skeleton](https://github.com/cesanta/fossa) : C/C++的TCP 客户端/服务器库
+##### [WAFer](https://github.com/riolet/WAFer) : 基于C语言的超轻型软件平台，用于可扩展的服务器端和网络应用。 对于C编程人员，可以考虑node.js
+##### [Onion](https://github.com/davidmoreno/onion) : C语言HTTP服务器库，其设计为轻量级，易使用。
+##### [POCO](https://github.com/pocoproject/poco) : 用于构建网络和基于互联网应用程序的C++类库，可以运行在桌面，服务器，移动和嵌入式系统。
+##### [RakNet](https://github.com/facebookarchive/RakNet) : 为游戏开发人员提供的跨平台的开源C++网络引擎。
+##### [Tufao](https://github.com/vinipsmaker/tufao) : 用于Qt之上的C++构建的异步Web框架。
+##### [WebSocket++](https://github.com/zaphoyd/websocketpp) : 基于C++/Boost Aiso的websocket 客户端/服务器库
+##### [ZeroMQ](http://zeromq.org/) : 高速，模块化的异步通信库
+
+
+<br>
+
+### TCP/IP协议栈
+##### [f-stack](https://github.com/f-stack/f-stack) : 腾讯开源的协议栈，基于DPDK的高性能用户态协议栈。
+##### [NtyTcp](https://github.com/wangbojing/NtyTcp) : 单线程的协议栈的，基于netmap,DPDK,rawSocket的实现。
+##### [LWIP](http://savannah.nongnu.org/projects/lwip/) : 针对 RAM 平台的精简版的 TCP/IP 协议栈实现。
+##### [mTCP](https://github.com/mtcp-stack/mtcp) : 针对多核系统的高可扩展性的用户空间 TCP/IP 协议栈。
+##### [4.4BSD](https://www.freebsd.org/zh_CN/copyright/license.html) : * nix的协议栈是源于4.4BSD的。
+
+
 <br>
 
 ### 音频库
@@ -260,10 +291,25 @@
 ##### [GMP](https://gmplib.org/) : 用于个高精度计算的C/C++库，处理有符号整数，有理数和浮点数。
 
 
+<br>
+
+### 多媒体库
+
+##### [GStreamer](https://gstreamer.freedesktop.org/) : 构建媒体处理组件图形的库
+##### [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) : 使用开放标准协议(RTP/RTCP, RTSP, SIP) 的多媒体流库
+##### [libVLC](https://wiki.videolan.org/LibVLC) : libVLC (VLC SDK)媒体框架
+##### [QtAV](https://github.com/wang-bin/QtAV) : 基于Qt和FFmpeg的多媒体播放框架，能够帮助你轻而易举地编写出一个播放器
+##### [SDL](http://www.libsdl.org/) : 简单直控媒体层
+##### [SFML](http://www.sfml-dev.org/) : 快速，简单的多媒体库
 
 
 
 
+<br>
+
+<br>
+
+<br>
 
 
 #### 获取大牛视频资料，专家架构交流3群：783153655
