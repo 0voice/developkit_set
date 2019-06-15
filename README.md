@@ -1,15 +1,6 @@
 ## 2019年最新总结，值得推荐的c/c++开源框架与库。持续更新中。
 
 
-
-<br>
-
-### 标准库，算法与函数
-##### [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) : 是一系列类和函数的集合，使用核心语言编写，也是C++ISO自身标准的一部分。
-##### [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) : 标准模板库, STL
-##### [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) : POSIX系统的C标准库规范
-##### [ISO C++ Standards Committee](https://github.com/cplusplus) : C++标准委员会
-
 <br>
 
 ### 框架
@@ -80,6 +71,29 @@
 ##### [mTCP](https://github.com/mtcp-stack/mtcp) : 针对多核系统的高可扩展性的用户空间 TCP/IP 协议栈。
 ##### [4.4BSD](https://www.freebsd.org/zh_CN/copyright/license.html) : * nix的协议栈是源于4.4BSD的。
 
+<br>
+
+### WEB应用框架
+
+##### [Nginx](http://nginx.org/) : 一个高性能的HTTP和反向代理web服务器，同时也提供了IMAP/POP3/SMTP服务。
+##### [Lighttpd](http://www.lighttpd.net/) : 一款开源 Web 服务器软件，安全快速,符合行业标准,适配性强并且针对高配置环境进行了优化。
+##### [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/) : GNU软件下的简单c库的Web服务器。API简单，快速。
+##### [shttpd](http://shttpd.sourceforge.net/) : 基于Mongoose的Web服务器框架。
+##### [CivetWeb](https://github.com/bel2125/civetweb) : 提供易于使用，强大的，C/C++嵌入式Web服务器，带有可选的CGI，SSL和Lua支持。
+##### [CppCMS](http://cppcms.com/wikipp/en/page/main) : 免费高性能的Web开发框架（不是 CMS）.
+##### [Crow](https://github.com/ipkn/crow) : 一个C++微型web框架（灵感来自于Python Flask）
+##### [Kore](https://kore.io/) : 使用C语言开发的用于web应用程序的超快速和灵活的web服务器/框架。
+##### [libOnion](https://www.coralbits.com/libonion/) : 轻量级的库，帮助你使用C编程语言创建web服务器。
+##### [QDjango](https://github.com/jlaine/qdjango/) : 使用C++编写的，基于Qt库的web框架，试图效仿Django API，因此得此名。
+##### [Wt](https://www.webtoolkit.eu/wt) : 开发Web应用的C++库。
+
+<br>
+
+### 标准库，算法与函数
+##### [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) : 是一系列类和函数的集合，使用核心语言编写，也是C++ISO自身标准的一部分。
+##### [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) : 标准模板库, STL
+##### [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) : POSIX系统的C标准库规范
+##### [ISO C++ Standards Committee](https://github.com/cplusplus) : C++标准委员会
 
 <br>
 
@@ -302,6 +316,78 @@
 ##### [SDL](http://www.libsdl.org/) : 简单直控媒体层
 ##### [SFML](http://www.sfml-dev.org/) : 快速，简单的多媒体库
 
+
+<br>
+### 物理学
+##### [Box2D](https://code.google.com/p/box2d/) : 2D的游戏物理引擎。
+##### [Bullet](https://github.com/bulletphysics/bullet3) : 3D的游戏物理引擎。
+##### [Chipmunk](https://github.com/slembcke/Chipmunk2D) : 快速，轻量级的2D游戏物理库
+##### [LiquidFun](https://github.com/google/liquidfun) : 2D的游戏物理引擎
+##### [ODE](http://www.ode.org/) : 开放动力学引擎-开源，高性能库，模拟刚体动力学。
+##### [ofxBox2D](https://github.com/vanderlin/ofxBox2d) : Box2D开源框架包装器。
+##### [Simbody](https://github.com/simbody/simbody) : 高性能C++多体动力学/物理库，模拟关节生物力学和机械系统，像车辆，机器人和人体骨骼。
+
+<br>
+
+### 机器人学
+##### [MOOS-Ivp](http://moos-ivp.org/) : 一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆。
+##### [MRPT](https://www.mrpt.org/) : 移动机器人编程工具包
+##### [PCL](https://github.com/PointCloudLibrary/pcl) : 点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理。
+##### [Robotics Library](http://www.roboticslibrary.org/) : 一个独立的C++库，包括机器人动力学，运动规划和控制。
+##### [RobWork](http://www.robwork.dk/apidoc/nightly/rw/) : 一组C++库的集合，用于机器人系统的仿真和控制。
+##### [ROS](http://wiki.ros.org/) : 机器人操作系统，提供了一些库和工具帮助软件开发人员创建机器人应用程序。
+
+<br>
+
+### 科学计算
+##### [FFTW](http://www.fftw.org/) : 用一维或者多维计算DFT的C语言库。
+##### [GSL](http://www.gnu.org/software/gsl/) : GNU科学库。
+
+<br>
+
+### 脚本
+##### [ChaiScript](https://github.com/ChaiScript/ChaiScript/) : 用于C++的易于使用的嵌入式脚本语言。
+##### [Lua](http://www.lua.org/) : 用于配置文件和基本应用程序脚本的小型快速脚本引擎。
+##### [luacxx](https://github.com/dafrito/luacxx) : 用于创建Lua绑定的C++ 11 API
+##### [SWIG](http://www.swig.org/) : 一个可以让你的C++代码链接到JavaScript，Perl，PHP，Python，Tcl和Ruby的包装器/接口生成器
+##### [V7](https://github.com/cesanta/v7) : 嵌入式的JavaScript 引擎。
+##### [V8](http://code.google.com/p/v8/) : 谷歌的快速JavaScript引擎，可以被嵌入到任何C++应用程序中。
+
+<br>
+
+### 序列化
+##### [Cap'n Proto](https://capnproto.org/) : 快速数据交换格式和RPC系统。
+##### [cereal](https://github.com/USCiLab/cereal) : C++11 序列化库
+##### [FlatBuffers](https://github.com/google/flatbuffers) : 内存高效的序列化库
+##### [MessagePack](https://github.com/msgpack/msgpack-c) : C/C++的高效二进制序列化库，例如 JSON
+##### [ProtoBuf](http://code.google.com/p/protobuf/) : 协议缓冲，谷歌的数据交换格式。
+##### [ProtoBuf-c](https://github.com/protobuf-c/protobuf-c) : C语言的协议缓冲实现
+##### [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) : 用于低延迟应用程序的对二进制格式的应用程序信息的编码和解码。
+##### [Thrift](https://thrift.apache.org/) : 高效的跨语言IPC/RPC，用于C++，Java，Python，PHP，C#和其它多种语言中，最初由Facebook开发。
+
+
+<br>
+
+### 视频库
+##### [libvpx](http://www.webmproject.org/code/) : VP8/VP9编码解码SDK
+##### [FFMpeg](https://www.ffmpeg.org/) : 一个完整的，跨平台的解决方案，用于记录，转换视频和音频流。
+##### [libde265](https://github.com/strukturag/libde265) : 开放的h.265视频编解码器的实现。
+##### [OpenH264](https://github.com/cisco/openh264) : 开源H.364 编解码器。
+##### [Theora](https://www.theora.org/) : 免费开源的视频压缩格式。
+
+
+
+<br>
+### XML库
+##### [Expat](http://www.libexpat.org/) : 用C语言编写的xml解析库
+##### [LibXml2](http://xmlsoft.org/) : Gnome的xml C解析器和工具包
+##### [LibXml++](http://libxmlplusplus.sourceforge.net/) : C++的xml解析器
+##### [PugiXML](https://pugixml.org/) : 用于C++的，支持XPath的轻量级，简单快速的XML解析器。
+##### [RapidXML](http://rapidxml.sourceforge.net/) : 试图创建最快速的XML解析器，同时保持易用性，可移植性和合理的W3C兼容性。
+##### [TinyXML](https://sourceforge.net/projects/tinyxml/) : 简单小型的C++XML解析器，可以很容易地集成到其它项目中。
+##### [TinyXML2](https://github.com/leethomason/tinyxml2) : 简单快速的C++CML解析器，可以很容易集成到其它项目中。
+##### [TinyXML++](https://code.google.com/p/ticpp/) : TinyXML的一个全新的接口，使用了C++的许多许多优势，模板，异常和更好的异常处理。
+##### [Xerces-C++](http://xerces.apache.org/xerces-c/) : 用可移植的C++的子集编写的XML验证解析器。
 
 
 
