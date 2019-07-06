@@ -400,7 +400,7 @@
 <br>
 
 #### 专注于服务器后台开发，包括C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK技术分享，专家架构交流3群：783153655
-#### 加群可获得，更多资料
+#### 加群可获得，Linux后端开发配套视频资料，与一线互联网企业架构内部分享资料。
 ![image](https://github.com/0voice/video_server/blob/master/video_0.png)
 
 #### 若群已满，添加QQ：469254771 , 备注github
