@@ -401,7 +401,7 @@
 
 #### 专注于服务器后台开发，包括C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK技术分享，专家架构交流3群：812855908
 
-#### 若群已满，添加QQ：469254771 , 备注github
+#### 若群已满，添加QQ：936204305 , 备注github
 #### 关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料
 
 ![image](https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg)
