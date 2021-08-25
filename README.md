@@ -399,11 +399,9 @@
 
 <br>
 
-**每天晚上8点免费技术分享直播，扫码即可加，小姐姐给你提供每天的直播链接，备注"github c++库"** <br/>
-**直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
+#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
-![image](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
-
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
 
 
 
